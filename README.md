@@ -1,2 +1,2 @@
 # Java
- Lectures
+ Lectures  and Exercises
