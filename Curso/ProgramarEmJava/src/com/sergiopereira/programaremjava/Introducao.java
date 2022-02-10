@@ -1,6 +1,6 @@
 package com.sergiopereira.programaremjava;
 
-public class Main {
+public class Introducao {
   public static void main(String[] args) {
     System.out.print("Eu sou o Sérgio.");
     System.out.println("Tenho 32 anos.");
