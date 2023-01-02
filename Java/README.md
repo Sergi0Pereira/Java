@@ -1,2 +1,0 @@
-# Java
- Lectures  and Exercises
