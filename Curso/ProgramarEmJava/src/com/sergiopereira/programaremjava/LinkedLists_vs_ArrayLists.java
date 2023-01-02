@@ -1,6 +1,7 @@
 package com.sergiopereira.programaremjava;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.LinkedList;
 
 public class LinkedLists_vs_ArrayLists {
@@ -32,12 +33,14 @@ public class LinkedLists_vs_ArrayLists {
     list.remove(1);
 
     // Percorre a lista usando um for-each
-    for (String s : list) {
+    for (String s : list) { // 
       System.out.println(s);
     }
     // imprime:
     // Oi
     // Bem
-
+    Collections.reverse(list); // Inverte a ordem
+    System.out.println(list.toString()); 
   }
 }
+

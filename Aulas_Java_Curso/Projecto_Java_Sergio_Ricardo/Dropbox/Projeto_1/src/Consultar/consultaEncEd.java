@@ -107,3 +107,5 @@ public class consultaEncEd {
 
     }
 }
+
+// optimiza e diminui a quantidade do codigo acima sem alterar o seu funcionamento
